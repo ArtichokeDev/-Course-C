@@ -1,6 +1,6 @@
-/*1. Pedir 2 números al usuario y sumarlos, restarlos, multiplicarlos 
+/*1. Pedir 2 nÃºmeros al usuario y sumarlos, restarlos, multiplicarlos 
 y dividirlos.*/
-#include<stdio.h>
+#include <stdio.h>
 
 int main(){
 	int n1,n2,suma=0,resta=0,mult=0,div=0;
